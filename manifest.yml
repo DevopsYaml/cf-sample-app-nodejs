@@ -1,6 +1,6 @@
 ---
 applications:
-- name: CICDapp
+- name: cicdapp
   memory: 192M
   instances: 1
   random-route: true
