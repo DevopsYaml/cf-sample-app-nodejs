@@ -1,7 +1,6 @@
 ---
 applications:
-- name: cf-nodejs2
+- name: CICDapp
   memory: 192M
   instances: 1
-  random-route: false
-  host: 23dadfdhdhdadada14ghgrewhbdkasfdadafsfs
+  random-route: true
